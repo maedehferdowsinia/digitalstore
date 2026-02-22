@@ -71,3 +71,10 @@ This project was created to strengthen my backend development skills using Djang
 
 ✅ Completed as a learning backend project  
 🚧 Continuously improving
+
+---
+
+## 💡 Relation to My AI Journey
+
+This project represents my first step toward building production-ready systems.
+Understanding backend architecture helps me integrate Machine Learning and AI models into real-world applications in the future.
