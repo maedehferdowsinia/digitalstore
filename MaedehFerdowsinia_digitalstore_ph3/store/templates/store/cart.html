@@ -1,0 +1,35 @@
+{% extends "store/base.html" %}
+
+{% block title %}
+سبد خرید | Digital Store
+{% endblock %}
+
+{% block content %}
+
+<h2>سبد خرید</h2>
+
+{% if user.is_seller %}
+    <p>❌ فروشندگان سبد خرید ندارند.</p>
+
+{% else %}
+
+    {% if files %}
+        <ul>
+        {% for file in files %}
+            <li>{{ file.title }} - {{ file.price }} تومان</li>
+        {% endfor %}
+        </ul>
+
+        <p>مجموع: {{ total_price }} تومان</p>
+
+        <a href="{% url 'store:checkout' %}">
+            <button>پرداخت</button>
+        </a>
+
+    {% else %}
+        <p>سبد خرید شما خالی است.</p>
+    {% endif %}
+
+{% endif %}
+
+{% endblock %}

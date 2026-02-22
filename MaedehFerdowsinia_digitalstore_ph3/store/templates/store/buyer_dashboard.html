@@ -1,0 +1,40 @@
+{% extends "store/base.html" %}
+
+{% block title %}
+داشبورد خریدار | Digital Store
+{% endblock %}
+
+{% block content %}
+
+<h2>داشبورد خریدار</h2>
+
+{% if purchased_items %}
+    <table border="1" cellpadding="8" cellspacing="0">
+        <thead>
+            <tr>
+                <th>عنوان فایل</th>
+                <th>قیمت</th>
+                <th>تاریخ خرید</th>
+                <th>دانلود</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in purchased_items %}
+                <tr>
+                    <td>{{ item.file.title }}</td>
+                    <td>{{ item.file.price }} تومان</td>
+                    <td>{{ item.order.created_at|date:"Y-m-d" }}</td>
+                    <td>
+                        <a href="{% url 'store:download_file' item.file.id %}">
+                            دانلود
+                        </a>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+{% else %}
+    <p>هنوز هیچ فایلی خریداری نکرده‌اید.</p>
+{% endif %}
+
+{% endblock %}

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+    <h1>Welcome to Digital Store!</h1>
+
+    <h2>Accounts:</h2>
+    <ul>
+        <li><a href="{% url 'accounts:seller_signup' %}">Register as Seller</a></li>
+        <li><a href="{% url 'accounts:buyer_signup' %}">Register as Buyer</a></li>
+        <li><a href="{% url 'accounts:login' %}">Login</a></li>
+        <li><a href="{% url 'accounts:logout' %}">Logout</a></li>
+    </ul>
+</body>
+</html>

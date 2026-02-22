@@ -1,0 +1,27 @@
+{% extends "store/base.html" %}
+
+{% block title %}
+آپلود فایل | Digital Store
+{% endblock %}
+
+{% block content %}
+
+<h2>آپلود فایل جدید</h2>
+
+<form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+
+    <table>
+        {{ form.as_table }}
+    </table>
+
+    <br>
+
+    <button type="submit">📤 آپلود فایل</button>
+</form>
+
+<br>
+
+<a href="{% url 'store:file_list' %}">← بازگشت به لیست فایل‌ها</a>
+
+{% endblock %}

@@ -1,0 +1,1512 @@
+INFO 2025-12-27 13:32:35,251 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 13:33:49,162 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 14:12:28,265 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 14:14:58,093 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 14:15:02,846 django.server "GET / HTTP/1.1" 200 425
+WARNING 2025-12-27 14:15:03,150 django.request Not Found: /favicon.ico
+WARNING 2025-12-27 14:15:03,152 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2025-12-27 14:15:05,104 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 14:15:10,511 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 14:15:10,625 django.server "GET /store/files/ HTTP/1.1" 200 523
+INFO 2025-12-27 14:15:12,609 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:23:18,480 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:24:06,870 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:24:28,935 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:24:32,537 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 16:24:34,735 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:24:36,821 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 16:24:36,944 django.server "GET /store/files/ HTTP/1.1" 200 523
+INFO 2025-12-27 16:24:38,829 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:25:23,655 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:25:56,195 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:27:39,886 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:27:44,884 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 16:27:47,665 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:27:50,007 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 16:27:50,092 django.server "GET /store/files/ HTTP/1.1" 200 523
+INFO 2025-12-27 16:27:59,248 django.server "GET /store/files/1/ HTTP/1.1" 200 389
+INFO 2025-12-27 16:28:03,400 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:28:13,929 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2025-12-27 16:28:14,233 django.server "GET /store/files/ HTTP/1.1" 500 125491
+INFO 2025-12-27 16:28:16,192 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:29:05,745 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 16:29:08,349 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:29:16,363 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 16:29:16,442 django.server "GET /store/files/ HTTP/1.1" 200 520
+INFO 2025-12-27 16:29:26,095 django.server "GET /store/files/4/ HTTP/1.1" 200 387
+INFO 2025-12-27 16:35:26,749 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:36:15,651 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 16:36:18,005 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 16:36:22,932 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:36:25,884 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 16:36:25,980 django.server "GET /store/files/ HTTP/1.1" 200 520
+INFO 2025-12-27 16:58:05,326 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 16:58:16,689 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-27 16:58:16,945 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3689
+INFO 2025-12-27 16:58:24,899 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-12-27 16:58:25,058 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-27 16:58:27,941 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 13825
+INFO 2025-12-27 16:58:28,078 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-27 16:58:30,410 django.server "GET /admin/accounts/user/8/change/ HTTP/1.1" 200 27159
+INFO 2025-12-27 16:58:30,506 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-27 16:58:42,439 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 16:58:49,266 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 16:59:23,623 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2025-12-27 16:59:23,769 django.server "GET /store/files/ HTTP/1.1" 500 125489
+INFO 2025-12-27 17:00:45,210 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 17:00:47,458 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1734
+INFO 2025-12-27 17:01:32,214 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 302 0
+ERROR 2025-12-27 17:01:32,344 django.server "GET /store/files/ HTTP/1.1" 500 125496
+INFO 2025-12-27 17:03:40,748 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 17:03:59,324 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:03:59,417 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3688
+INFO 2025-12-27 17:04:02,765 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:04:02,858 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-27 17:04:05,054 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2025-12-27 17:04:05,165 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-27 17:08:10,992 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 17:08:16,862 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 17:08:19,131 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 17:08:27,204 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:08:27,329 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 17:14:27,052 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 17:14:29,584 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 17:14:31,768 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 17:14:34,068 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:14:34,167 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 17:14:36,895 django.server "GET /store/files/4/ HTTP/1.1" 200 442
+INFO 2025-12-27 17:14:39,287 store User buyer1 added file 4 to cart
+INFO 2025-12-27 17:14:39,316 django.server "GET /store/cart/add/4/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:14:39,405 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 17:14:45,783 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 17:14:48,389 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:14:48,477 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 17:15:10,642 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 17:17:48,809 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 17:17:50,771 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:17:50,824 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 17:17:54,018 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-27 17:17:59,878 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-27 17:18:01,699 store User buyer1 added file 1 to cart
+INFO 2025-12-27 17:18:01,710 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:18:01,767 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 17:19:00,202 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 17:19:02,420 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 17:19:04,657 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 17:19:06,421 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 17:19:06,479 django.server "GET /store/files/ HTTP/1.1" 200 843
+ERROR 2025-12-27 17:56:10,227 django.server "GET /store/cart/ HTTP/1.1" 500 93761
+WARNING 2025-12-27 17:57:07,467 django.request Not Found: /store/buyer-dashboard/
+WARNING 2025-12-27 17:57:07,467 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 404 4716
+INFO 2025-12-27 17:57:53,560 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 18:37:42,152 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:37:50,408 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:37:53,593 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 18:37:57,309 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 18:37:59,240 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:37:59,317 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:38:01,414 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-27 18:38:02,988 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:38:03,046 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:38:23,481 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 390
+ERROR 2025-12-27 18:38:46,281 django.server "GET /store/cart/ HTTP/1.1" 500 145938
+INFO 2025-12-27 18:44:34,297 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:45:56,184 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:47:54,459 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:48:06,991 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:48:13,239 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:48:30,898 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:48:51,173 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:48:53,180 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 18:48:55,043 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 18:48:57,337 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:48:57,389 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:48:59,230 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-27 18:49:00,780 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:49:00,834 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:49:14,668 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 18:49:16,568 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 18:49:18,333 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:49:18,382 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:49:22,162 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-27 18:49:23,616 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:49:23,671 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:49:28,237 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-27 18:49:30,217 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:49:30,274 django.server "GET /store/files/ HTTP/1.1" 200 843
+ERROR 2025-12-27 18:51:09,455 django.server "GET /store/cart/ HTTP/1.1" 500 145938
+INFO 2025-12-27 18:53:43,727 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-27 18:53:45,743 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-27 18:53:47,686 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-27 18:53:49,565 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:53:49,623 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:53:51,737 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-27 18:53:53,384 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:53:53,440 django.server "GET /store/files/ HTTP/1.1" 200 843
+INFO 2025-12-27 18:54:18,826 django.server "GET /store/cart/ HTTP/1.1" 200 311
+INFO 2025-12-27 18:54:27,255 store Order 1 created by user buyer1
+INFO 2025-12-27 18:54:27,258 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:54:27,320 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 390
+INFO 2025-12-27 18:54:44,343 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:54:44,455 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3688
+INFO 2025-12-27 18:54:48,651 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-12-27 18:54:48,735 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-27 18:54:50,143 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2025-12-27 18:54:50,213 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-27 18:54:53,331 django.server "GET /admin/accounts/user/7/change/ HTTP/1.1" 200 27159
+INFO 2025-12-27 18:54:53,396 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-27 18:54:57,853 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2025-12-27 18:54:59,593 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-27 18:55:01,936 django.server "GET /admin/store/file/ HTTP/1.1" 200 13269
+INFO 2025-12-27 18:55:02,006 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-27 18:55:04,833 django.server "GET /admin/store/file/1/change/ HTTP/1.1" 200 17020
+INFO 2025-12-27 18:55:04,901 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-27 18:55:11,131 django.server "GET /admin/store/file/ HTTP/1.1" 200 13269
+INFO 2025-12-27 18:55:13,148 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-28 14:33:55,206 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 14:33:58,162 django.server "GET / HTTP/1.1" 200 425
+WARNING 2025-12-28 14:33:58,472 django.request Not Found: /favicon.ico
+WARNING 2025-12-28 14:33:58,474 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2025-12-28 14:34:00,355 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 14:34:02,946 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:34:03,084 django.server "GET /store/files/ HTTP/1.1" 200 459
+INFO 2025-12-28 14:34:07,768 django.server "GET /store/files/1/ HTTP/1.1" 200 389
+INFO 2025-12-28 14:34:15,558 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 14:34:29,434 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:34:29,513 django.server "GET /store/files/ HTTP/1.1" 200 459
+INFO 2025-12-28 14:34:33,691 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 14:34:40,057 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:34:40,186 django.server "GET /store/files/ HTTP/1.1" 200 687
+INFO 2025-12-28 14:34:45,087 store User buyer1 downloaded file 1
+ERROR 2025-12-28 14:34:45,215 django.server "GET /store/download/1/ HTTP/1.1" 500 76905
+INFO 2025-12-28 14:34:48,925 store User buyer1 downloaded file 4
+ERROR 2025-12-28 14:34:48,965 django.server "GET /store/download/4/ HTTP/1.1" 500 76903
+INFO 2025-12-28 14:35:28,065 django.server "GET /store/files/3/ HTTP/1.1" 200 430
+INFO 2025-12-28 14:35:29,569 store User buyer1 added file 3 to cart
+INFO 2025-12-28 14:35:29,597 django.server "GET /store/cart/add/3/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:35:29,690 django.server "GET /store/cart/ HTTP/1.1" 200 157
+INFO 2025-12-28 14:35:34,584 store Order 2 created by user buyer1
+INFO 2025-12-28 14:35:34,589 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:35:34,681 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 390
+INFO 2025-12-28 14:35:54,571 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 14:35:56,793 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 14:35:59,072 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:35:59,172 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 14:38:54,791 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 14:39:03,267 store User buyer1 added file 1 to cart
+INFO 2025-12-28 14:39:03,293 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:39:03,367 django.server "GET /store/cart/ HTTP/1.1" 200 161
+INFO 2025-12-28 14:40:52,741 store Order 3 created by user buyer1
+INFO 2025-12-28 14:40:52,744 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 14:40:52,832 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 390
+INFO 2025-12-28 14:42:20,299 store User buyer1 downloaded file 4
+ERROR 2025-12-28 14:42:20,333 django.server "GET /store/download/4/ HTTP/1.1" 500 76903
+INFO 2025-12-28 14:42:42,144 store User buyer1 downloaded file 3
+ERROR 2025-12-28 14:42:42,178 django.server "GET /store/download/3/ HTTP/1.1" 500 76903
+INFO 2025-12-28 14:43:18,559 store User buyer1 downloaded file 3
+ERROR 2025-12-28 14:43:18,594 django.server "GET /store/download/3/ HTTP/1.1" 500 76903
+INFO 2025-12-28 14:45:40,733 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:23:22,356 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:27:38,044 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:27:40,526 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 15:27:42,393 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:27:44,844 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:27:44,958 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 15:27:49,769 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 15:27:55,405 store User buyer1 added file 1 to cart
+INFO 2025-12-28 15:27:55,434 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:27:55,514 django.server "GET /store/cart/ HTTP/1.1" 200 161
+INFO 2025-12-28 15:27:57,070 store Order 4 created by user buyer1
+INFO 2025-12-28 15:27:57,073 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:27:57,172 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 390
+INFO 2025-12-28 15:28:31,998 django.server "GET /store/download/1/ HTTP/1.1" 200 15641
+INFO 2025-12-28 15:31:09,738 django.server "GET /store/cart/ HTTP/1.1" 200 53
+INFO 2025-12-28 15:31:39,337 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 390
+INFO 2025-12-28 15:33:18,613 django.server "GET /store/files/2/ HTTP/1.1" 200 439
+INFO 2025-12-28 15:33:23,170 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 15:33:24,493 store User buyer1 added file 1 to cart
+INFO 2025-12-28 15:33:24,526 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:33:24,600 django.server "GET /store/cart/ HTTP/1.1" 200 161
+INFO 2025-12-28 15:34:13,535 store Order 5 created by user buyer1
+INFO 2025-12-28 15:34:13,538 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:34:13,613 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 390
+INFO 2025-12-28 15:34:54,615 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 15:34:56,582 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:35:01,559 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:35:01,656 django.server "GET /store/files/ HTTP/1.1" 200 275
+INFO 2025-12-28 15:35:04,953 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:35:10,223 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:35:10,307 django.server "GET /store/files/ HTTP/1.1" 200 272
+INFO 2025-12-28 15:36:34,422 django.server "GET /store/files/4/ HTTP/1.1" 200 387
+INFO 2025-12-28 15:36:37,189 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:36:40,398 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:36:40,494 django.server "GET /store/files/ HTTP/1.1" 200 272
+INFO 2025-12-28 15:36:41,857 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2025-12-28 15:39:58,824 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:40:30,474 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:40:33,457 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 15:40:36,618 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:40:38,836 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:40:38,940 django.server "GET /store/files/ HTTP/1.1" 200 272
+INFO 2025-12-28 15:40:41,952 django.server "GET /store/files/3/ HTTP/1.1" 200 375
+INFO 2025-12-28 15:40:47,327 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:40:54,919 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:40:55,002 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 15:40:59,372 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 15:41:00,880 store User buyer1 added file 1 to cart
+INFO 2025-12-28 15:41:00,894 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:41:00,971 django.server "GET /store/cart/ HTTP/1.1" 200 161
+INFO 2025-12-28 15:41:02,627 store Order 6 created by user buyer1
+INFO 2025-12-28 15:41:02,630 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:41:02,750 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 1802
+INFO 2025-12-28 15:45:45,393 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:45:59,284 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:46:03,756 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 15:46:05,572 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:46:07,685 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:46:07,774 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 15:46:10,303 django.server "GET /store/files/2/ HTTP/1.1" 200 439
+INFO 2025-12-28 15:46:14,321 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 15:46:31,689 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 15:46:32,995 store User buyer1 added file 1 to cart
+INFO 2025-12-28 15:46:33,022 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:46:33,100 django.server "GET /store/cart/ HTTP/1.1" 200 161
+INFO 2025-12-28 15:46:34,817 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:46:34,901 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 15:47:21,784 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 15:47:23,155 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:47:23,230 django.server "GET /store/cart/ HTTP/1.1" 200 161
+INFO 2025-12-28 15:47:25,906 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:47:25,987 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 15:49:32,744 django.server "GET /store/files/1/ HTTP/1.1" 200 444
+INFO 2025-12-28 15:50:39,812 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:50:39,893 django.server "GET /store/cart/ HTTP/1.1" 200 161
+INFO 2025-12-28 15:51:50,565 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:51:50,652 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 15:54:22,009 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:56:09,082 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 15:56:21,382 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 15:56:23,377 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:56:25,835 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:56:25,925 django.server "GET /store/files/ HTTP/1.1" 200 794
+INFO 2025-12-28 15:56:30,243 django.server "GET /store/files/1/ HTTP/1.1" 200 550
+INFO 2025-12-28 15:56:42,498 django.server "GET /store/files/2/ HTTP/1.1" 200 440
+INFO 2025-12-28 15:57:19,348 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 15:57:25,050 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:57:25,127 django.server "GET /store/files/ HTTP/1.1" 200 275
+INFO 2025-12-28 15:57:27,932 django.server "GET /store/files/1/ HTTP/1.1" 200 391
+INFO 2025-12-28 15:57:31,079 django.server "GET /store/files/2/ HTTP/1.1" 200 386
+INFO 2025-12-28 15:58:00,536 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:58:00,741 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3689
+INFO 2025-12-28 15:58:06,393 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2025-12-28 15:58:06,546 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-28 15:58:08,646 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2025-12-28 15:58:08,765 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 15:58:14,084 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-28 15:58:16,259 django.server "GET /admin/store/file/ HTTP/1.1" 200 13269
+INFO 2025-12-28 15:58:16,361 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 15:58:32,772 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-28 15:59:06,513 django.server "GET /admin/store/file/ HTTP/1.1" 200 13269
+INFO 2025-12-28 15:59:06,630 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 15:59:10,479 django.server "GET /admin/store/file/add/ HTTP/1.1" 200 16596
+INFO 2025-12-28 15:59:10,590 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 15:59:13,386 django.server "GET /admin/store/file/ HTTP/1.1" 200 13269
+INFO 2025-12-28 15:59:15,878 django.server "GET /admin/store/file/add/ HTTP/1.1" 200 16596
+INFO 2025-12-28 15:59:15,983 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 15:59:52,763 django.server "GET /admin/store/file/ HTTP/1.1" 200 13269
+INFO 2025-12-28 15:59:55,876 django.server "GET /admin/store/file/add/ HTTP/1.1" 200 16596
+INFO 2025-12-28 15:59:55,989 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 16:00:46,622 django.server "GET /admin/ HTTP/1.1" 200 14542
+INFO 2025-12-28 16:00:50,502 django.server "GET /admin/store/file/ HTTP/1.1" 200 13269
+INFO 2025-12-28 16:00:50,620 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 16:00:52,505 django.server "GET /admin/store/file/2/change/ HTTP/1.1" 200 17006
+INFO 2025-12-28 16:00:52,613 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 16:01:55,055 django.server "POST /admin/store/file/add/ HTTP/1.1" 302 0
+INFO 2025-12-28 16:01:55,167 django.server "GET /admin/store/file/ HTTP/1.1" 200 13723
+INFO 2025-12-28 16:01:55,260 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 16:02:11,383 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2025-12-28 16:02:16,861 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 16:02:19,063 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 16:02:37,565 django.server "GET /admin/store/file/add/ HTTP/1.1" 200 16596
+INFO 2025-12-28 16:02:39,693 django.server "GET /admin/store/file/ HTTP/1.1" 200 13529
+INFO 2025-12-28 16:02:41,149 django.server "GET /admin/ HTTP/1.1" 200 14580
+INFO 2025-12-28 16:02:44,833 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2025-12-28 16:02:44,928 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2025-12-28 16:02:56,996 django.server "POST /accounts/login/ HTTP/1.1" 200 854
+INFO 2025-12-28 16:03:03,056 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 16:03:05,688 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 16:03:12,807 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 16:03:12,894 django.server "GET /store/files/ HTTP/1.1" 200 588
+INFO 2025-12-28 16:03:19,021 django.server "GET /store/files/5/ HTTP/1.1" 200 440
+INFO 2025-12-28 16:03:20,677 store User buyer2 added file 5 to cart
+INFO 2025-12-28 16:03:20,705 django.server "GET /store/cart/add/5/ HTTP/1.1" 302 0
+INFO 2025-12-28 16:03:20,784 django.server "GET /store/cart/ HTTP/1.1" 200 158
+INFO 2025-12-28 16:03:25,995 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2025-12-28 16:03:26,094 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 491
+INFO 2025-12-28 16:03:35,498 django.server "GET /store/download/5/ HTTP/1.1" 200 15575
+INFO 2025-12-28 16:03:50,193 django.server "GET / HTTP/1.1" 200 425
+INFO 2025-12-28 16:03:51,875 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 16:03:56,088 django.server "POST /accounts/login/ HTTP/1.1" 200 854
+INFO 2025-12-28 16:04:02,408 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 16:04:05,022 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2025-12-28 16:04:09,834 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2025-12-28 16:04:09,918 django.server "GET /store/files/ HTTP/1.1" 200 588
+INFO 2026-01-01 18:06:04,071 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-01 18:06:07,358 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-01 18:06:07,549 django.request Not Found: /favicon.ico
+WARNING 2026-01-01 18:06:07,551 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-01 18:06:11,384 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-01 18:06:14,117 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-01 18:06:14,307 django.server "GET /store/files/ HTTP/1.1" 200 669
+INFO 2026-01-01 18:06:24,015 django.server "GET /store/files/5/ HTTP/1.1" 200 545
+INFO 2026-01-01 18:06:35,085 django.server "GET /store/files/5/ HTTP/1.1" 200 545
+INFO 2026-01-02 23:18:58,512 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:21:11,367 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:21:24,172 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:21:29,569 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-02 23:21:29,668 django.request Not Found: /favicon.ico
+WARNING 2026-01-02 23:21:29,669 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-02 23:22:03,513 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:22:06,505 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:22:06,673 django.server "GET /store/files/ HTTP/1.1" 200 669
+INFO 2026-01-02 23:22:13,869 django.server "GET /store/files/5/ HTTP/1.1" 200 545
+INFO 2026-01-02 23:22:18,772 django.server "GET /store/files/1/ HTTP/1.1" 200 445
+INFO 2026-01-02 23:22:25,717 django.server "GET /store/files/4/ HTTP/1.1" 200 443
+INFO 2026-01-02 23:22:27,322 store User buyer2 added file 4 to cart
+INFO 2026-01-02 23:22:27,332 django.server "GET /store/cart/add/4/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:22:27,401 django.server "GET /store/cart/ HTTP/1.1" 200 157
+INFO 2026-01-02 23:22:30,284 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:22:30,471 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 707
+INFO 2026-01-02 23:22:38,811 django.server "GET /store/download/5/ HTTP/1.1" 200 15575
+INFO 2026-01-02 23:22:50,017 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-02 23:22:51,719 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:23:01,790 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:23:01,840 django.server "GET /store/files/ HTTP/1.1" 200 275
+INFO 2026-01-02 23:23:09,031 django.server "GET /store/files/1/ HTTP/1.1" 200 391
+INFO 2026-01-02 23:23:12,997 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-02 23:23:19,512 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:23:50,512 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:23:50,561 django.server "GET /store/files/ HTTP/1.1" 200 364
+INFO 2026-01-02 23:24:15,300 django.server "GET /store/files/4/ HTTP/1.1" 200 389
+INFO 2026-01-02 23:24:18,914 django.server "GET /store/files/5/ HTTP/1.1" 200 386
+INFO 2026-01-02 23:24:31,040 django.server "GET /store/files/5/ HTTP/1.1" 200 386
+INFO 2026-01-02 23:24:50,657 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-02 23:27:22,268 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-02 23:36:20,069 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:37:49,390 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:40:18,771 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:41:58,655 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:42:42,342 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:42:53,761 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:43:19,386 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:43:41,288 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:46:40,811 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:46:49,108 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-02 23:46:51,838 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:46:53,750 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:46:53,807 django.server "GET /store/files/ HTTP/1.1" 200 364
+INFO 2026-01-02 23:46:58,938 django.server "GET /store/files/3/ HTTP/1.1" 200 377
+INFO 2026-01-02 23:47:02,234 django.server "GET /store/files/4/ HTTP/1.1" 200 389
+INFO 2026-01-02 23:47:04,692 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:47:10,726 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:47:10,777 django.server "GET /store/files/ HTTP/1.1" 200 275
+INFO 2026-01-02 23:47:13,032 django.server "GET /store/files/2/ HTTP/1.1" 200 386
+INFO 2026-01-02 23:47:16,238 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:47:22,400 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:47:22,456 django.server "GET /store/files/ HTTP/1.1" 200 886
+INFO 2026-01-02 23:47:33,687 django.server "GET /store/files/1/ HTTP/1.1" 200 550
+INFO 2026-01-02 23:47:46,546 django.server "GET /store/files/2/ HTTP/1.1" 200 440
+INFO 2026-01-02 23:47:52,242 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:51:33,362 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-02 23:51:38,195 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-02 23:51:40,301 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:51:42,472 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:51:42,527 django.server "GET /store/files/ HTTP/1.1" 200 1268
+INFO 2026-01-02 23:51:48,113 django.server "GET /store/files/ HTTP/1.1" 200 1268
+INFO 2026-01-02 23:51:50,153 django.server "GET /store/cart/ HTTP/1.1" 200 53
+INFO 2026-01-02 23:52:03,461 django.server "GET /store/files/1/ HTTP/1.1" 200 550
+INFO 2026-01-02 23:52:07,853 django.server "GET /store/files/2/ HTTP/1.1" 200 440
+INFO 2026-01-02 23:52:11,809 django.server "GET /store/cart/ HTTP/1.1" 200 53
+INFO 2026-01-02 23:52:15,290 django.server "GET /store/files/ HTTP/1.1" 200 1268
+INFO 2026-01-02 23:52:29,669 django.server "GET /store/cart/ HTTP/1.1" 200 53
+INFO 2026-01-02 23:52:39,445 django.server "GET /store/cart/ HTTP/1.1" 200 53
+INFO 2026-01-02 23:52:51,108 django.server "GET /store/files/ HTTP/1.1" 200 1268
+WARNING 2026-01-02 23:52:56,511 django.request Method Not Allowed (GET): /accounts/logout/
+WARNING 2026-01-02 23:52:56,512 django.server "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2026-01-02 23:56:01,684 django.server "GET /store/cart/ HTTP/1.1" 200 53
+WARNING 2026-01-02 23:56:48,084 django.request Method Not Allowed (GET): /accounts/logout/
+WARNING 2026-01-02 23:56:48,085 django.server "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2026-01-02 23:58:36,105 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-02 23:58:40,852 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-02 23:58:40,911 django.server "GET /store/files/ HTTP/1.1" 200 658
+INFO 2026-01-02 23:58:43,524 django.server "GET /store/files/ HTTP/1.1" 200 658
+INFO 2026-01-02 23:58:45,168 django.server "GET /store/cart/ HTTP/1.1" 200 53
+INFO 2026-01-03 00:01:20,898 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-03 00:01:23,387 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:01:25,483 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:01:27,300 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:01:27,353 django.server "GET /store/files/ HTTP/1.1" 200 868
+INFO 2026-01-03 00:01:29,607 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:01:29,612 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-03 00:01:38,491 django.request Method Not Allowed (GET): /accounts/logout/
+WARNING 2026-01-03 00:01:38,492 django.server "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2026-01-03 00:06:33,516 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-03 00:06:35,944 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:06:38,213 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:06:39,966 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:06:40,021 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-03 00:06:43,464 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-03 00:06:47,136 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-03 00:06:49,429 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:06:49,434 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:07:18,010 django.server "GET /store/upload/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:07:18,022 django.server "GET /accounts/login/?next=/store/upload/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:07:21,469 django.server "GET /store/upload/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:07:21,481 django.server "GET /accounts/login/?next=/store/upload/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:07:24,598 django.server "GET /store/upload/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:07:24,609 django.server "GET /accounts/login/?next=/store/upload/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:07:40,456 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-03 00:07:40,649 django.request Not Found: /favicon.ico
+WARNING 2026-01-03 00:07:40,650 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-03 00:07:42,503 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:07:44,352 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:07:44,410 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-03 00:07:45,945 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-03 00:07:52,333 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-03 00:07:55,084 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-03 00:07:58,435 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-03 00:08:05,114 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-03 00:17:10,149 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-03 00:21:12,840 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-03 00:21:17,378 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:21:19,352 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:21:21,956 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:21:22,011 django.server "GET /store/files/ HTTP/1.1" 200 1078
+ERROR 2026-01-03 00:21:26,980 django.server "GET /store/files/1/ HTTP/1.1" 500 201846
+ERROR 2026-01-03 00:21:31,533 django.server "GET /store/files/2/ HTTP/1.1" 500 201837
+INFO 2026-01-03 00:21:34,176 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:21:38,651 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:21:38,705 django.server "GET /store/files/ HTTP/1.1" 200 1690
+ERROR 2026-01-03 00:21:41,188 django.server "GET /store/files/1/ HTTP/1.1" 500 201842
+ERROR 2026-01-03 00:21:44,332 django.server "GET /store/files/4/ HTTP/1.1" 500 201836
+ERROR 2026-01-03 00:21:51,743 django.server "GET /store/files/1/ HTTP/1.1" 500 201842
+INFO 2026-01-03 00:25:48,741 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-03 00:25:50,390 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:25:52,350 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:25:54,202 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:25:54,260 django.server "GET /store/files/ HTTP/1.1" 200 1690
+INFO 2026-01-03 00:25:55,746 django.server "GET /store/files/1/ HTTP/1.1" 200 1165
+INFO 2026-01-03 00:25:58,313 django.server "GET /store/files/ HTTP/1.1" 200 1690
+INFO 2026-01-03 00:26:07,256 django.server "GET /store/download/1/ HTTP/1.1" 200 15641
+INFO 2026-01-03 00:26:20,067 django.server "GET /store/files/2/ HTTP/1.1" 200 1171
+INFO 2026-01-03 00:26:26,291 store User buyer1 added file 2 to cart
+INFO 2026-01-03 00:26:26,302 django.server "GET /store/cart/add/2/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:26:26,358 django.server "GET /store/cart/ HTTP/1.1" 200 158
+INFO 2026-01-03 00:26:39,278 django.server "GET /store/files/2/ HTTP/1.1" 200 1171
+INFO 2026-01-03 00:26:42,837 django.server "GET /store/cart/ HTTP/1.1" 200 158
+INFO 2026-01-03 00:27:08,132 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:27:09,840 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:27:15,538 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:27:15,585 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-03 00:27:17,872 django.server "GET /store/files/1/ HTTP/1.1" 200 1121
+INFO 2026-01-03 00:27:20,562 django.server "GET /store/upload/ HTTP/1.1" 200 1314
+INFO 2026-01-03 00:27:25,289 django.server "GET /store/files/2/ HTTP/1.1" 200 1116
+INFO 2026-01-03 00:27:27,441 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:28:48,688 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:28:50,536 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:28:52,306 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:28:52,355 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-03 00:32:58,301 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-03 00:33:00,086 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-03 00:33:01,899 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:33:03,631 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:33:03,685 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-03 00:33:05,781 django.server "GET /store/files/1/ HTTP/1.1" 200 1121
+INFO 2026-01-03 00:33:19,268 django.server "GET /store/files/2/ HTTP/1.1" 200 1116
+INFO 2026-01-03 00:33:25,446 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-03 00:33:31,472 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:33:31,525 django.server "GET /store/files/ HTTP/1.1" 200 891
+INFO 2026-01-03 00:33:44,838 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-03 00:33:44,843 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-05 00:22:24,308 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-05 00:23:12,832 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-05 00:23:12,854 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-05 00:23:13,561 django.request Not Found: /favicon.ico
+WARNING 2026-01-05 00:23:13,561 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+WARNING 2026-01-05 00:23:13,595 django.request Not Found: /favicon.ico
+WARNING 2026-01-05 00:23:13,595 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-05 00:23:18,475 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-05 00:23:27,655 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-05 00:23:27,916 django.server "GET /store/files/ HTTP/1.1" 200 1690
+INFO 2026-01-05 00:23:31,854 django.server "GET /store/files/1/ HTTP/1.1" 200 1165
+INFO 2026-01-05 00:23:39,798 django.server "GET /store/files/1/ HTTP/1.1" 200 1165
+INFO 2026-01-05 00:23:46,862 django.server "GET /store/files/2/ HTTP/1.1" 200 1171
+INFO 2026-01-05 00:23:51,628 django.server "GET /store/files/ HTTP/1.1" 200 1690
+INFO 2026-01-05 00:23:53,358 django.server "GET /store/cart/ HTTP/1.1" 200 69
+INFO 2026-01-05 00:24:05,221 django.server "GET /store/files/2/ HTTP/1.1" 200 1171
+INFO 2026-01-05 00:28:07,904 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-05 00:28:10,534 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-05 00:28:13,373 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-05 00:28:19,944 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-05 00:28:20,055 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-05 00:28:24,102 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-05 00:28:39,881 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-05 00:28:42,850 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-05 00:29:02,905 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-05 00:29:21,427 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-05 00:29:27,280 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-05 00:29:49,234 django.server "GET /store/files/ HTTP/1.1" 200 1078
+INFO 2026-01-05 00:29:58,105 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-05 00:33:29,684 store File 6 uploaded by seller seller1
+INFO 2026-01-05 00:33:29,697 django.server "POST /store/upload/ HTTP/1.1" 302 0
+INFO 2026-01-05 00:33:29,828 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-01-05 00:33:36,667 django.server "GET /store/files/6/ HTTP/1.1" 200 1109
+INFO 2026-01-05 00:33:48,544 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-01-05 00:34:19,651 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-05 00:34:31,530 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-05 00:34:31,556 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-19 21:55:00,102 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-19 21:55:03,454 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-19 21:55:03,639 django.request Not Found: /favicon.ico
+WARNING 2026-01-19 21:55:03,639 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-19 21:55:06,603 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:09,165 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 21:55:09,181 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:12,839 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 21:55:12,854 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:14,969 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:16,680 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:21,156 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:26,264 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 21:55:26,271 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:51,906 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 21:55:51,923 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 21:55:57,588 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 21:55:57,596 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 22:03:12,582 django.server "GET /admin HTTP/1.1" 301 0
+INFO 2026-01-19 22:03:12,602 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:03:12,855 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4751
+INFO 2026-01-19 22:03:13,177 django.server "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+INFO 2026-01-19 22:03:13,188 django.server "GET /static/admin/js/theme.js HTTP/1.1" 200 1653
+INFO 2026-01-19 22:03:13,210 django.server "GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2808
+INFO 2026-01-19 22:03:13,220 django.server "GET /static/admin/css/login.css HTTP/1.1" 200 951
+INFO 2026-01-19 22:03:13,220 django.server "GET /static/admin/css/base.css HTTP/1.1" 200 22120
+INFO 2026-01-19 22:03:13,220 django.server "GET /static/admin/css/responsive.css HTTP/1.1" 200 16565
+INFO 2026-01-19 22:03:13,245 django.server "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+INFO 2026-01-19 22:03:13,255 django.server "GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+INFO 2026-01-19 22:03:25,456 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:03:25,604 django.server "GET /admin/ HTTP/1.1" 200 14580
+INFO 2026-01-19 22:03:25,630 django.server "GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+INFO 2026-01-19 22:03:25,648 django.server "GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+INFO 2026-01-19 22:03:25,648 django.server "GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+INFO 2026-01-19 22:03:29,001 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-19 22:03:29,035 django.server "GET /static/admin/css/changelists.css HTTP/1.1" 200 6878
+INFO 2026-01-19 22:03:29,043 django.server "GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+INFO 2026-01-19 22:03:29,049 django.server "GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 285314
+INFO 2026-01-19 22:03:29,051 django.server "GET /static/admin/js/core.js HTTP/1.1" 200 6208
+INFO 2026-01-19 22:03:29,059 django.server "GET /static/admin/js/actions.js HTTP/1.1" 200 8076
+INFO 2026-01-19 22:03:29,059 django.server "GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9777
+INFO 2026-01-19 22:03:29,066 django.server "GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+INFO 2026-01-19 22:03:29,070 django.server "GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+INFO 2026-01-19 22:03:29,078 django.server "GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 325171
+INFO 2026-01-19 22:03:29,096 django.server "GET /static/admin/js/filters.js HTTP/1.1" 200 978
+INFO 2026-01-19 22:03:29,110 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:03:29,150 django.server "GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+INFO 2026-01-19 22:03:32,169 django.server "GET /admin/accounts/user/5/change/ HTTP/1.1" 200 27722
+INFO 2026-01-19 22:03:32,195 django.server "GET /static/admin/js/calendar.js HTTP/1.1" 200 9141
+INFO 2026-01-19 22:03:32,195 django.server "GET /static/admin/css/forms.css HTTP/1.1" 200 8525
+INFO 2026-01-19 22:03:32,198 django.server "GET /static/admin/js/prepopulate_init.js HTTP/1.1" 200 586
+INFO 2026-01-19 22:03:32,198 django.server "GET /static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 200 19319
+INFO 2026-01-19 22:03:32,208 django.server "GET /static/admin/css/widgets.css HTTP/1.1" 200 11973
+INFO 2026-01-19 22:03:32,226 django.server "GET /static/admin/js/change_form.js HTTP/1.1" 200 606
+INFO 2026-01-19 22:03:32,239 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:03:32,304 django.server "GET /static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+INFO 2026-01-19 22:03:32,305 django.server "GET /static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+INFO 2026-01-19 22:03:37,166 django.server "GET /admin/store/file/ HTTP/1.1" 200 13791
+INFO 2026-01-19 22:03:37,238 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:03:47,397 django.server "GET /admin/ HTTP/1.1" 200 14580
+INFO 2026-01-19 22:03:55,432 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-19 22:03:57,342 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 22:04:03,431 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:04:03,437 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 22:13:55,582 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-19 22:16:59,974 django.server "GET /admin/ HTTP/1.1" 200 14738
+INFO 2026-01-19 22:17:11,747 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-19 22:17:11,835 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:17:15,362 django.server "GET /admin/accounts/user/7/change/ HTTP/1.1" 200 27717
+INFO 2026-01-19 22:17:15,427 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:17:48,635 django.server "GET /admin/ HTTP/1.1" 200 14580
+INFO 2026-01-19 22:17:54,491 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-19 22:17:54,566 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:17:57,316 django.server "GET /admin/accounts/user/7/change/ HTTP/1.1" 200 27717
+INFO 2026-01-19 22:17:57,373 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:18:01,076 django.server "POST /admin/accounts/user/7/change/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:18:01,155 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14284
+INFO 2026-01-19 22:18:01,230 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:18:01,362 django.server "GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+INFO 2026-01-19 22:18:13,684 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-19 22:18:15,246 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-19 22:18:17,080 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 22:18:19,309 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:18:19,437 django.server "GET /store/files/ HTTP/1.1" 200 1782
+INFO 2026-01-19 22:18:24,065 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 22:18:36,881 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:18:36,887 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 22:19:25,569 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-19 22:19:27,403 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-19 22:19:33,327 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:19:33,384 django.server "GET /store/files/ HTTP/1.1" 200 1782
+INFO 2026-01-19 22:19:40,048 django.server "GET /store/files/ HTTP/1.1" 200 1782
+INFO 2026-01-19 22:19:44,325 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:19:44,344 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-19 22:20:36,454 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1734
+INFO 2026-01-19 22:22:20,620 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 200 1912
+INFO 2026-01-19 22:22:47,660 django.server "GET /admin/accounts/user/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:22:47,693 django.server "GET /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 200 4359
+INFO 2026-01-19 22:22:53,376 django.server "POST /admin/login/?next=/admin/accounts/user/ HTTP/1.1" 302 0
+INFO 2026-01-19 22:22:53,466 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-19 22:22:53,534 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+WARNING 2026-01-19 22:23:31,488 django.security.csrf Forbidden (CSRF token from POST incorrect.): /accounts/signup/buyer/
+WARNING 2026-01-19 22:23:31,488 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 403 2503
+INFO 2026-01-19 22:27:19,977 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-19 22:27:20,041 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-19 22:27:25,917 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-19 22:27:39,614 django.server "GET /admin/ HTTP/1.1" 200 14588
+INFO 2026-01-19 22:27:42,583 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-19 22:27:42,747 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:35:32,731 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 01:35:39,206 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 01:35:54,436 django.server "GET /admin/login/?next=/polls/admin HTTP/1.1" 302 0
+INFO 2026-01-20 01:35:54,604 django.server "GET /admin/ HTTP/1.1" 200 14588
+INFO 2026-01-20 01:35:57,782 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-20 01:35:57,906 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:00,059 django.server "GET /admin/accounts/user/9/change/ HTTP/1.1" 200 27717
+INFO 2026-01-20 01:36:00,164 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:08,232 django.server "POST /admin/accounts/user/9/change/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:36:08,346 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14284
+INFO 2026-01-20 01:36:08,452 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:10,656 django.server "GET /admin/accounts/user/8/change/ HTTP/1.1" 200 27717
+INFO 2026-01-20 01:36:10,748 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:14,911 django.server "POST /admin/accounts/user/8/change/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:36:15,017 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14284
+INFO 2026-01-20 01:36:15,109 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:17,126 django.server "GET /admin/accounts/user/7/change/ HTTP/1.1" 200 27725
+INFO 2026-01-20 01:36:17,217 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:20,479 django.server "POST /admin/accounts/user/7/change/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:36:20,576 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14284
+INFO 2026-01-20 01:36:20,668 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:23,260 django.server "GET /admin/accounts/user/6/change/ HTTP/1.1" 200 27722
+INFO 2026-01-20 01:36:23,449 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:27,941 django.server "POST /admin/accounts/user/6/change/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:36:28,037 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14285
+INFO 2026-01-20 01:36:28,133 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:31,284 django.server "GET /admin/accounts/user/5/change/ HTTP/1.1" 200 27722
+INFO 2026-01-20 01:36:31,375 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:38,407 django.server "POST /admin/accounts/user/5/change/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:36:38,505 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14285
+INFO 2026-01-20 01:36:38,606 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:41,447 django.server "GET /admin/accounts/user/5/change/ HTTP/1.1" 200 27730
+INFO 2026-01-20 01:36:41,538 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:44,933 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-20 01:36:46,674 django.server "GET /admin/accounts/user/6/change/ HTTP/1.1" 200 27730
+INFO 2026-01-20 01:36:46,773 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:50,454 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14086
+INFO 2026-01-20 01:36:52,265 django.server "GET /admin/accounts/user/4/change/ HTTP/1.1" 200 27722
+INFO 2026-01-20 01:36:52,358 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:36:56,136 django.server "POST /admin/accounts/user/4/change/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:36:56,255 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14285
+INFO 2026-01-20 01:36:56,353 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 01:37:09,267 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 01:37:10,995 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 01:37:17,061 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:37:17,168 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-01-20 01:37:20,537 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 01:39:14,393 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 01:39:17,108 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-20 01:39:19,173 django.request Method Not Allowed (GET): /accounts/logout/
+WARNING 2026-01-20 01:39:19,175 django.server "GET /accounts/logout/ HTTP/1.1" 405 0
+INFO 2026-01-20 01:39:22,841 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 01:39:28,635 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 01:39:28,753 django.server "GET /store/files/ HTTP/1.1" 200 1782
+INFO 2026-01-20 01:43:09,721 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 01:43:12,357 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 01:43:14,914 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+ERROR 2026-01-20 01:43:45,973 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 500 91983
+INFO 2026-01-20 01:47:01,255 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 01:47:12,535 django.utils.autoreload Watching for file changes with StatReloader
+ERROR 2026-01-20 01:47:23,163 django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'seller_signup' not found. 'seller_signup' is not a valid view function or pattern name.
+ERROR 2026-01-20 01:47:23,171 django.server "GET / HTTP/1.1" 500 122614
+ERROR 2026-01-20 01:47:38,747 django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'seller_signup' not found. 'seller_signup' is not a valid view function or pattern name.
+ERROR 2026-01-20 01:47:38,751 django.server "GET / HTTP/1.1" 500 122614
+ERROR 2026-01-20 01:49:26,156 django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'seller_signup' not found. 'seller_signup' is not a valid view function or pattern name.
+ERROR 2026-01-20 01:49:26,160 django.server "GET / HTTP/1.1" 500 122614
+INFO 2026-01-20 01:54:30,641 django.utils.autoreload Watching for file changes with StatReloader
+ERROR 2026-01-20 01:54:40,146 django.request Internal Server Error: /
+Traceback (most recent call last):
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\core\handlers\base.py", line 220, in _get_response
+    response = response.render()
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 114, in render
+    self.content = self.rendered_content
+                   ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\response.py", line 92, in rendered_content
+    return template.render(context, self._request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\backends\django.py", line 107, in render
+    return self.template.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 171, in render
+    return self._render(context)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 163, in _render
+    return self.nodelist.render(context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in render
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 1016, in <listcomp>
+    return SafeString("".join([node.render_annotated(context) for node in self]))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\base.py", line 977, in render_annotated
+    return self.render(context)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\template\defaulttags.py", line 480, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\base.py", line 98, in reverse
+    resolved_url = resolver._reverse_with_prefix(view, prefix, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\maede\AppData\Local\Programs\Python\Python311\Lib\site-packages\django\urls\resolvers.py", line 831, in _reverse_with_prefix
+    raise NoReverseMatch(msg)
+django.urls.exceptions.NoReverseMatch: Reverse for 'seller_signup' not found. 'seller_signup' is not a valid view function or pattern name.
+ERROR 2026-01-20 01:54:40,151 django.server "GET / HTTP/1.1" 500 122614
+INFO 2026-01-20 02:12:41,754 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:12:46,648 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 02:12:48,975 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:12:51,312 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2026-01-20 02:12:51,674 django.server "GET /store/files/ HTTP/1.1" 500 178808
+INFO 2026-01-20 02:12:55,048 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:13:06,946 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:13:07,141 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3688
+INFO 2026-01-20 02:13:11,855 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:13:11,979 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 02:13:14,593 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14349
+INFO 2026-01-20 02:13:14,697 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 02:13:16,985 django.server "GET /admin/accounts/user/7/change/ HTTP/1.1" 200 27725
+INFO 2026-01-20 02:13:17,084 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 02:13:23,491 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14349
+INFO 2026-01-20 02:13:24,594 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 02:13:25,746 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:13:25,855 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 02:13:27,541 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:13:30,862 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2026-01-20 02:13:31,062 django.server "GET /store/files/ HTTP/1.1" 500 178808
+INFO 2026-01-20 02:13:33,452 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:13:46,806 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:13:51,633 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2026-01-20 02:13:51,803 django.server "GET /store/files/ HTTP/1.1" 500 176093
+INFO 2026-01-20 02:13:53,605 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:14:00,056 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-20 02:14:24,013 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 200 1893
+INFO 2026-01-20 02:14:38,567 django.server "GET /admin/login/?next=/polls/admin HTTP/1.1" 200 3699
+INFO 2026-01-20 02:14:43,427 django.server "POST /admin/login/?next=/polls/admin HTTP/1.1" 302 0
+WARNING 2026-01-20 02:14:43,439 django.request Not Found: /polls/admin
+WARNING 2026-01-20 02:14:43,439 django.server "GET /polls/admin HTTP/1.1" 404 2671
+INFO 2026-01-20 02:14:46,608 django.server "GET /admin/login/?next=/polls/admin HTTP/1.1" 302 0
+INFO 2026-01-20 02:14:46,703 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 02:14:49,919 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14349
+INFO 2026-01-20 02:14:50,016 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 02:14:52,045 django.server "GET /admin/accounts/user/10/change/ HTTP/1.1" 200 27683
+INFO 2026-01-20 02:14:52,147 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 02:14:57,231 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14349
+INFO 2026-01-20 02:14:59,230 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 02:15:15,543 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:15:21,732 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 02:15:23,549 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:15:28,242 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2026-01-20 02:15:28,451 django.server "GET /store/files/ HTTP/1.1" 500 176093
+INFO 2026-01-20 02:15:30,266 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:15:34,572 django.server "GET /accounts/signup/seller/ HTTP/1.1" 200 1736
+ERROR 2026-01-20 02:16:40,365 django.server "POST /accounts/signup/seller/ HTTP/1.1" 500 93501
+INFO 2026-01-20 02:17:24,354 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:17:32,212 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 02:17:37,052 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:17:39,401 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2026-01-20 02:17:39,604 django.server "GET /store/files/ HTTP/1.1" 500 176403
+INFO 2026-01-20 02:28:01,517 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:28:21,224 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:28:55,861 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:29:01,904 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:30:11,704 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:30:15,706 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 02:30:23,042 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:30:25,388 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2026-01-20 02:30:25,619 django.server "GET /store/files/ HTTP/1.1" 500 176423
+INFO 2026-01-20 02:30:29,699 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:30:41,170 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:30:45,795 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+ERROR 2026-01-20 02:30:46,006 django.server "GET /store/files/ HTTP/1.1" 500 179138
+INFO 2026-01-20 02:46:41,836 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 02:46:45,671 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 02:46:47,708 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:46:49,874 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:46:49,990 django.server "GET /store/files/ HTTP/1.1" 200 1782
+INFO 2026-01-20 02:46:55,943 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:47:01,733 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:47:01,842 django.server "GET /store/files/ HTTP/1.1" 200 891
+INFO 2026-01-20 02:47:08,296 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:47:15,466 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:47:15,568 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-20 02:47:22,836 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-20 02:47:32,383 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 02:47:42,637 django.server "GET /admin/login/?next=/polls/admin HTTP/1.1" 200 3859
+INFO 2026-01-20 02:47:53,215 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:47:53,309 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3689
+INFO 2026-01-20 02:47:59,360 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:47:59,485 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 02:48:10,504 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14614
+INFO 2026-01-20 02:48:10,623 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 02:48:23,817 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 02:48:27,534 django.server "GET /accounts/signup/seller/ HTTP/1.1" 200 1736
+INFO 2026-01-20 02:49:01,454 django.server "POST /accounts/signup/seller/ HTTP/1.1" 302 0
+INFO 2026-01-20 02:49:01,464 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:18:13,553 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 14:18:18,458 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-20 14:18:18,729 django.request Not Found: /favicon.ico
+WARNING 2026-01-20 14:18:18,729 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-20 14:18:24,092 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:18:31,129 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:18:31,255 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-01-20 14:19:25,372 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:19:30,784 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:19:30,863 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-20 14:36:51,123 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 14:37:08,323 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-20 14:37:18,351 django.request Not Found: /\u0634\u06cc\u0626\u0647\u062f
+WARNING 2026-01-20 14:37:18,351 django.server "GET /%D8%B4%DB%8C%D8%A6%D9%87%D8%AF HTTP/1.1" 404 2688
+INFO 2026-01-20 14:37:25,165 django.server "GET /admin/login/?next=/polls/admin HTTP/1.1" 200 3699
+INFO 2026-01-20 14:37:30,480 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:37:30,571 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3689
+INFO 2026-01-20 14:37:38,086 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:37:38,180 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3689
+INFO 2026-01-20 14:37:43,840 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:37:43,960 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 14:37:46,495 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14882
+INFO 2026-01-20 14:37:46,617 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:37:50,274 django.server "GET /admin/accounts/user/12/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 14:37:50,373 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:37:57,382 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14882
+INFO 2026-01-20 14:38:03,917 django.server "GET /admin/accounts/user/12/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 14:38:04,029 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:38:08,992 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14882
+INFO 2026-01-20 14:38:10,067 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 14:38:11,036 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:38:11,139 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 14:38:12,377 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:38:12,482 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 14:38:18,166 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 14:38:20,073 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+ERROR 2026-01-20 14:38:37,804 django.server "POST /accounts/login/ HTTP/1.1" 500 152820
+INFO 2026-01-20 14:44:09,064 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 14:44:35,303 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 14:44:37,750 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 14:44:40,012 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:44:44,955 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:44:44,965 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:44:48,008 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:44:48,119 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-20 14:44:49,961 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:44:55,845 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:44:55,854 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:45:13,770 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 14:45:16,023 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:45:36,117 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:45:36,127 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:45:48,747 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:45:48,891 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4162
+INFO 2026-01-20 14:46:00,526 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:46:00,628 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 14:46:03,218 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14882
+INFO 2026-01-20 14:46:03,332 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:46:07,332 django.server "GET /admin/accounts/user/12/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 14:46:07,438 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:46:16,164 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14882
+INFO 2026-01-20 14:46:19,527 django.server "GET /admin/accounts/user/11/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 14:46:19,628 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:46:27,691 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14882
+INFO 2026-01-20 14:46:31,434 django.server "GET /admin/accounts/user/10/change/ HTTP/1.1" 200 27683
+INFO 2026-01-20 14:46:31,532 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:46:39,076 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 14:46:41,856 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 14882
+INFO 2026-01-20 14:46:41,962 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 14:46:46,278 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 14:46:48,308 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:47:12,264 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:47:12,273 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:50:13,294 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:50:13,402 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-20 14:51:01,153 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:51:05,192 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:51:05,202 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 14:52:25,834 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 14:52:25,931 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3952
+INFO 2026-01-20 15:04:09,849 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 15:04:19,528 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 15:04:25,363 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-20 15:05:23,746 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:05:23,760 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:24:04,828 django.server "GET /accounts/verify-email/MTM/d2plwz-60922a081eac5008ce32dbb0ff6926e5/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:24:04,859 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:24:11,235 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:24:11,247 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:46:38,071 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 15:46:40,450 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 15:46:42,374 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:46:45,371 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:46:45,490 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-20 15:46:47,285 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:46:50,929 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:46:50,938 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:46:52,526 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:46:52,612 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-20 15:46:56,683 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:47:00,681 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:47:00,690 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:47:27,640 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:47:27,652 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:47:35,082 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:47:35,252 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4422
+INFO 2026-01-20 15:47:58,996 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:47:59,133 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 15:48:01,610 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-20 15:48:01,740 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:48:10,598 django.server "GET /admin/accounts/user/13/change/ HTTP/1.1" 200 27691
+INFO 2026-01-20 15:48:10,692 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:48:21,277 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 15:48:23,535 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:48:41,932 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:48:42,032 django.server "GET /store/files/ HTTP/1.1" 200 1484
+INFO 2026-01-20 15:49:01,425 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:49:01,594 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3688
+INFO 2026-01-20 15:49:09,275 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:49:09,366 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 15:49:11,401 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-20 15:49:11,496 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:49:13,727 django.server "GET /admin/accounts/user/12/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 15:49:13,833 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:49:18,604 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-20 15:49:21,943 django.server "GET /admin/accounts/user/10/change/ HTTP/1.1" 200 27683
+INFO 2026-01-20 15:49:22,035 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:49:26,517 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-20 15:49:27,457 django.server "GET /admin/ HTTP/1.1" 200 14606
+INFO 2026-01-20 15:49:34,595 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 15:49:37,850 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:50:03,265 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:50:03,276 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:50:09,701 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:50:23,860 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:50:23,869 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:50:29,297 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:50:32,244 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-20 15:51:09,550 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 200 1893
+INFO 2026-01-20 15:51:22,327 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-20 15:51:25,040 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:51:42,982 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:51:42,991 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:52:16,747 django.server "GET /admin/ HTTP/1.1" 200 14974
+INFO 2026-01-20 15:52:19,208 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-20 15:52:19,306 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:52:25,207 django.server "GET /admin/accounts/user/11/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 15:52:25,304 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:52:29,613 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-20 15:52:42,579 django.server "GET /admin/accounts/user/12/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 15:52:42,683 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:52:46,607 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-20 15:52:48,394 django.server "GET /admin/accounts/user/12/change/ HTTP/1.1" 200 27688
+INFO 2026-01-20 15:52:48,486 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:52:52,751 django.server "GET /admin/accounts/user/12/delete/ HTTP/1.1" 200 11156
+INFO 2026-01-20 15:52:52,921 django.server "GET /static/admin/js/cancel.js HTTP/1.1" 200 884
+INFO 2026-01-20 15:52:56,873 django.server "POST /admin/accounts/user/12/delete/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:52:56,970 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15034
+INFO 2026-01-20 15:52:57,055 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-20 15:53:10,009 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 15:53:12,207 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 15:53:13,958 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:53:38,254 django.server "POST /accounts/login/ HTTP/1.1" 200 854
+INFO 2026-01-20 15:53:42,354 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:53:48,116 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:53:52,270 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:53:52,352 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-20 15:53:54,811 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:53:58,410 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-20 15:54:00,902 django.server "GET /accounts/signup/seller/ HTTP/1.1" 200 1736
+INFO 2026-01-20 15:54:26,485 django.server "POST /accounts/signup/seller/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:54:26,497 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:54:30,165 django.server "GET /accounts/verify-email/MTQ/d2po6q-020ab210a4e0df80a9a4eadbd35450e9/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:54:30,177 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 15:54:42,152 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 15:54:42,229 django.server "GET /store/files/ HTTP/1.1" 200 891
+INFO 2026-01-20 15:54:50,832 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:15:12,911 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 20:15:17,792 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 20:15:20,374 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:15:33,271 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:15:33,400 django.server "GET /store/files/ HTTP/1.1" 200 1484
+INFO 2026-01-20 20:15:44,962 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:15:56,827 django.server "GET /store/files/1/ HTTP/1.1" 200 1176
+INFO 2026-01-20 20:16:17,949 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:16:22,145 django.server "GET /store/files/1/ HTTP/1.1" 200 1176
+INFO 2026-01-20 20:16:24,639 store User buyer5 added file 1 to cart
+INFO 2026-01-20 20:16:24,654 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:16:24,746 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:16:28,232 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:16:30,136 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:16:36,914 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:16:36,998 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:16:38,884 django.server "GET /store/files/ HTTP/1.1" 200 1484
+INFO 2026-01-20 20:16:44,550 django.server "GET /store/files/1/ HTTP/1.1" 200 1176
+INFO 2026-01-20 20:16:48,877 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:16:48,954 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:16:53,139 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:18:55,170 django.server "GET /store/files/6/ HTTP/1.1" 200 1164
+INFO 2026-01-20 20:18:56,586 store User buyer5 added file 6 to cart
+INFO 2026-01-20 20:18:56,616 django.server "GET /store/cart/add/6/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:18:56,692 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:18:58,689 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:19:01,539 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:19:06,380 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:19:06,387 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 20:19:07,887 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:19:12,626 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:19:12,712 django.server "GET /store/files/ HTTP/1.1" 200 1484
+INFO 2026-01-20 20:19:22,718 django.server "GET /store/files/6/ HTTP/1.1" 200 1164
+INFO 2026-01-20 20:19:24,049 store User buyer5 added file 6 to cart
+INFO 2026-01-20 20:19:24,079 django.server "GET /store/cart/add/6/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:19:24,157 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:19:43,109 django.server "GET /store/files/5/ HTTP/1.1" 200 1171
+INFO 2026-01-20 20:19:44,838 store User buyer5 added file 5 to cart
+INFO 2026-01-20 20:19:44,851 django.server "GET /store/cart/add/5/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:19:44,932 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:19:47,339 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:19:49,382 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:05,730 django.server "GET /store/files/4/ HTTP/1.1" 200 1174
+INFO 2026-01-20 20:20:07,069 store User buyer5 added file 4 to cart
+INFO 2026-01-20 20:20:07,101 django.server "GET /store/cart/add/4/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:20:07,176 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:11,662 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:16,461 django.server "GET /store/files/3/ HTTP/1.1" 200 1162
+INFO 2026-01-20 20:20:17,766 store User buyer5 added file 3 to cart
+INFO 2026-01-20 20:20:17,794 django.server "GET /store/cart/add/3/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:20:17,872 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:19,629 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:24,591 django.server "GET /store/files/2/ HTTP/1.1" 200 1171
+INFO 2026-01-20 20:20:26,489 store User buyer5 added file 2 to cart
+INFO 2026-01-20 20:20:26,513 django.server "GET /store/cart/add/2/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:20:26,603 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:30,257 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:34,909 django.server "GET /store/files/2/ HTTP/1.1" 200 1171
+INFO 2026-01-20 20:20:37,090 django.server "GET /store/cart/add/2/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:20:37,170 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:39,101 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:50,301 django.server "GET /store/files/2/ HTTP/1.1" 200 1171
+INFO 2026-01-20 20:20:51,941 django.server "GET /store/cart/add/2/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:20:52,031 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:20:55,631 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:21:02,039 django.server "GET /store/files/1/ HTTP/1.1" 200 1176
+INFO 2026-01-20 20:21:03,665 store User buyer5 added file 1 to cart
+INFO 2026-01-20 20:21:03,692 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:21:03,767 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:21:06,112 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:21:24,786 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 20:21:27,439 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 20:21:30,034 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:21:32,724 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:21:32,812 django.server "GET /store/files/ HTTP/1.1" 200 1484
+INFO 2026-01-20 20:21:36,368 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:21:41,128 django.server "GET /store/files/3/ HTTP/1.1" 200 1162
+INFO 2026-01-20 20:21:42,686 django.server "GET /store/cart/add/3/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:21:42,762 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:21:58,356 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:22:19,398 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:22:30,925 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:22:31,004 django.server "GET /store/files/ HTTP/1.1" 200 891
+INFO 2026-01-20 20:22:33,851 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-20 20:26:05,356 store File 7 uploaded by seller seller5
+INFO 2026-01-20 20:26:05,356 django.server "POST /store/upload/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:26:05,442 django.server "GET /store/files/ HTTP/1.1" 200 983
+INFO 2026-01-20 20:26:14,993 django.server "GET /store/files/7/ HTTP/1.1" 200 1113
+INFO 2026-01-20 20:26:25,238 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:26:25,248 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 20:26:26,967 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:26:39,710 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:26:39,803 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-20 20:26:48,011 django.server "GET /store/files/7/ HTTP/1.1" 200 1168
+INFO 2026-01-20 20:26:49,261 store User buyer5 added file 7 to cart
+INFO 2026-01-20 20:26:49,291 django.server "GET /store/cart/add/7/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:26:49,371 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:26:53,734 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:26:56,180 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-20 20:26:57,752 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:27:10,138 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:27:13,041 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-20 20:27:25,431 django.server "GET /store/files/7/ HTTP/1.1" 200 1168
+INFO 2026-01-20 20:27:26,679 django.server "GET /store/cart/add/7/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:27:26,755 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:27:44,295 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 20:27:46,290 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 20:27:48,858 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:27:53,793 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:27:53,878 django.server "GET /store/files/ HTTP/1.1" 200 983
+INFO 2026-01-20 20:27:56,753 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:28:02,169 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:28:02,253 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-20 20:28:05,457 django.server "GET /store/files/7/ HTTP/1.1" 200 1168
+INFO 2026-01-20 20:28:07,673 store User buyer5 added file 7 to cart
+INFO 2026-01-20 20:28:07,687 django.server "GET /store/cart/add/7/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:28:07,873 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:28:11,427 django.server "GET /store/cart/ HTTP/1.1" 200 808
+INFO 2026-01-20 20:42:25,248 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-20 20:42:34,720 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 20:42:36,901 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:42:39,167 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:42:39,278 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-20 20:42:41,746 django.server "GET /store/files/7/ HTTP/1.1" 200 1168
+INFO 2026-01-20 20:42:43,339 django.server "GET /store/cart/add/7/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:42:43,415 django.server "GET /store/cart/ HTTP/1.1" 200 1103
+INFO 2026-01-20 20:42:49,979 django.server "GET /store/cart/ HTTP/1.1" 200 1103
+INFO 2026-01-20 20:42:57,561 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:43:00,326 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:43:00,405 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-20 20:43:03,118 django.server "GET /store/files/7/ HTTP/1.1" 200 1168
+INFO 2026-01-20 20:43:06,017 django.server "GET /store/cart/ HTTP/1.1" 200 1103
+INFO 2026-01-20 20:43:21,505 django.server "GET /store/files/1/ HTTP/1.1" 200 1176
+INFO 2026-01-20 20:43:23,796 store User buyer5 added file 1 to cart
+INFO 2026-01-20 20:43:23,823 django.server "GET /store/cart/add/1/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:43:23,916 django.server "GET /store/cart/ HTTP/1.1" 200 1164
+INFO 2026-01-20 20:43:26,445 django.server "GET /store/cart/ HTTP/1.1" 200 1164
+INFO 2026-01-20 20:43:41,106 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:43:41,113 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-20 20:43:42,974 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-20 20:43:44,971 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:43:45,051 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-20 20:43:46,497 django.server "GET /store/cart/ HTTP/1.1" 200 925
+INFO 2026-01-20 20:43:55,713 django.server "GET /store/cart/ HTTP/1.1" 200 925
+INFO 2026-01-20 20:43:59,821 django.server "GET /store/files/7/ HTTP/1.1" 200 1168
+INFO 2026-01-20 20:44:05,724 store User buyer5 added file 7 to cart
+INFO 2026-01-20 20:44:05,754 django.server "GET /store/cart/add/7/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:44:05,830 django.server "GET /store/cart/ HTTP/1.1" 200 1103
+INFO 2026-01-20 20:44:08,805 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:44:08,934 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 1581
+INFO 2026-01-20 20:44:16,963 django.server "GET /store/download/7/ HTTP/1.1" 200 141801
+INFO 2026-01-20 20:44:21,777 django.server "GET /store/files/ HTTP/1.1" 200 1657
+INFO 2026-01-20 20:44:29,061 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-20 20:44:29,070 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-21 00:14:54,238 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 4486
+INFO 2026-01-21 00:14:55,559 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:09:14,119 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-23 19:09:20,261 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 19:09:20,318 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-23 19:09:20,574 django.request Not Found: /favicon.ico
+WARNING 2026-01-23 19:09:20,576 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-23 19:09:23,128 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:09:25,793 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:09:26,025 django.server "GET /store/files/ HTTP/1.1" 200 1657
+INFO 2026-01-23 19:09:29,146 django.server "GET /store/files/1/ HTTP/1.1" 200 1176
+INFO 2026-01-23 19:09:48,981 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:09:49,272 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3688
+INFO 2026-01-23 19:09:55,722 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:09:55,930 django.server "GET /admin/ HTTP/1.1" 200 14566
+INFO 2026-01-23 19:09:56,085 django.server "GET /static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+INFO 2026-01-23 19:10:00,713 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-23 19:10:00,942 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:10:24,213 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:10:29,009 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-23 19:11:26,417 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 200 1890
+INFO 2026-01-23 19:11:33,049 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-23 19:11:36,546 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:11:40,123 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:11:55,047 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:12:04,410 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15145
+INFO 2026-01-23 19:12:04,626 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:12:21,457 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 19:12:24,712 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:12:27,335 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:12:29,549 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:12:33,002 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-23 19:13:37,825 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:13:37,836 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:13:50,569 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:14:20,920 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:14:20,927 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:14:25,069 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15673
+INFO 2026-01-23 19:14:25,289 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:14:27,112 django.server "GET /admin/accounts/user/15/change/ HTTP/1.1" 200 27683
+INFO 2026-01-23 19:14:27,333 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:14:30,069 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15408
+INFO 2026-01-23 19:14:32,015 django.server "GET /admin/accounts/user/15/change/ HTTP/1.1" 200 27683
+INFO 2026-01-23 19:14:32,220 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:14:41,705 django.server "GET /accounts/verify-email/MTU/d2vhep-ed7c559d78d58c4218a7318f23859531/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:14:41,717 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:14:44,550 django.server "GET /accounts/verify-email/MTU/d2vhep-ed7c559d78d58c4218a7318f23859531/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:14:44,561 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:14:47,185 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:14:50,154 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:14:56,918 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15767
+INFO 2026-01-23 19:15:09,161 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-23 19:15:12,265 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-23 19:15:12,559 django.request Not Found: /favicon.ico
+WARNING 2026-01-23 19:15:12,560 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-23 19:15:14,264 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:15:16,533 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:15:25,143 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 19:15:38,110 django.server "GET /admin/ HTTP/1.1" 200 14566
+INFO 2026-01-23 19:15:41,586 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15408
+INFO 2026-01-23 19:15:41,814 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:15:43,716 django.server "GET /admin/accounts/user/15/change/ HTTP/1.1" 200 27691
+INFO 2026-01-23 19:15:43,921 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:16:04,417 django.server "POST /admin/accounts/user/15/change/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:16:04,666 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15607
+INFO 2026-01-23 19:16:04,867 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:16:08,482 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 19:16:10,886 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:16:13,396 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:16:19,234 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:16:22,043 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-23 19:16:45,125 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 200 1893
+INFO 2026-01-23 19:16:53,109 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 19:16:54,900 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:17:15,596 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:17:15,836 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-23 19:17:36,468 django.server "GET /store/files/6/ HTTP/1.1" 200 1164
+INFO 2026-01-23 19:17:38,157 store User buyer6 added file 6 to cart
+INFO 2026-01-23 19:17:38,184 django.server "GET /store/cart/add/6/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:17:38,390 django.server "GET /store/cart/ HTTP/1.1" 200 1102
+INFO 2026-01-23 19:17:41,817 django.server "GET /store/cart/ HTTP/1.1" 200 1102
+INFO 2026-01-23 19:17:50,728 django.server "GET /store/cart/ HTTP/1.1" 200 1102
+INFO 2026-01-23 19:17:54,703 django.server "GET /store/checkout/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:17:54,924 django.server "GET /store/buyer-dashboard/ HTTP/1.1" 200 1581
+INFO 2026-01-23 19:17:58,725 django.server "GET /store/files/ HTTP/1.1" 200 1658
+INFO 2026-01-23 19:18:04,100 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:18:04,105 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 19:18:10,258 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1712
+INFO 2026-01-23 19:18:43,524 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:18:43,534 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:18:47,314 django.server "GET /accounts/verify-email/MTY/d2vhn7-468084e686b0e72f0a3ed27091ee1ebc/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:18:47,326 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:18:56,993 django.server "POST /accounts/login/ HTTP/1.1" 200 853
+INFO 2026-01-23 19:19:12,765 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:19:12,971 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-23 19:22:56,837 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-23 19:23:01,066 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-23 19:23:01,615 django.request Not Found: /favicon.ico
+WARNING 2026-01-23 19:23:01,617 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-23 19:23:04,090 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 19:23:17,101 django.server "GET /admin/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:23:17,434 django.server "GET /admin/login/?next=/admin/ HTTP/1.1" 200 3688
+INFO 2026-01-23 19:23:24,079 django.server "POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:23:24,298 django.server "GET /admin/ HTTP/1.1" 200 14571
+INFO 2026-01-23 19:23:26,887 django.server "GET /admin/accounts/user/ HTTP/1.1" 200 15671
+INFO 2026-01-23 19:23:27,125 django.server "GET /admin/jsi18n/ HTTP/1.1" 200 3342
+INFO 2026-01-23 19:23:32,762 django.server "GET /accounts/signup/seller/ HTTP/1.1" 200 1736
+INFO 2026-01-23 19:23:35,924 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:23:42,001 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:23:42,220 django.server "GET /store/files/ HTTP/1.1" 200 891
+INFO 2026-01-23 19:23:44,254 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:23:48,010 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:23:48,247 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-23 19:23:51,938 django.server "GET /store/files/3/ HTTP/1.1" 200 1107
+INFO 2026-01-23 19:23:55,969 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:23:59,786 django.server "GET /accounts/signup/seller/ HTTP/1.1" 200 1736
+INFO 2026-01-23 19:30:50,007 django.server "POST /accounts/signup/seller/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:30:50,026 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:30:53,599 django.server "GET /accounts/verify-email/MTc/d2vi7d-5561816bfe57addc6688af87213a4042/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:30:53,613 django.server "GET /accounts/login/ HTTP/1.1" 200 695
+INFO 2026-01-23 19:31:27,449 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 19:31:27,675 django.server "GET /store/files/ HTTP/1.1" 200 891
+INFO 2026-01-23 21:07:42,218 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-01-23 21:07:47,286 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-01-23 21:07:47,496 django.request Not Found: /favicon.ico
+WARNING 2026-01-23 21:07:47,496 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-01-23 21:07:49,922 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-01-23 21:07:52,942 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:07:53,169 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-23 21:07:59,137 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-01-23 21:08:01,953 django.server "GET /store/files/ HTTP/1.1" 200 1167
+INFO 2026-01-23 21:08:07,155 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-01-23 21:08:14,094 django.server "GET /accounts/signup/seller/ HTTP/1.1" 200 1785
+INFO 2026-01-23 21:09:00,089 django.server "POST /accounts/signup/seller/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:09:00,101 django.server "GET /accounts/login/ HTTP/1.1" 200 882
+INFO 2026-01-23 21:09:06,634 django.server "GET /accounts/verify-email/MTg/d2vmr0-0832fb18e91fd72b8cbb68a8f0de5b80/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:09:06,646 django.server "GET /accounts/login/ HTTP/1.1" 200 928
+INFO 2026-01-23 21:09:13,420 django.server "GET /accounts/verify-email/MTg/d2vmr0-0832fb18e91fd72b8cbb68a8f0de5b80/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:09:13,431 django.server "GET /accounts/login/ HTTP/1.1" 200 928
+INFO 2026-01-23 21:09:20,891 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:09:21,109 django.server "GET /store/files/ HTTP/1.1" 200 891
+INFO 2026-01-23 21:10:03,766 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:10:03,773 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 21:10:08,005 django.server "GET /accounts/signup/buyer/ HTTP/1.1" 200 1783
+INFO 2026-01-23 21:10:53,827 django.server "POST /accounts/signup/buyer/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:10:53,838 django.server "GET /accounts/login/ HTTP/1.1" 200 882
+INFO 2026-01-23 21:10:57,004 django.server "GET /accounts/verify-email/MTk/d2vmu5-c4786df549e018eba3eabbaf2804c25d/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:10:57,021 django.server "GET /accounts/login/ HTTP/1.1" 200 928
+INFO 2026-01-23 21:11:14,417 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:11:14,631 django.server "GET /store/files/ HTTP/1.1" 200 1576
+INFO 2026-01-23 21:11:30,718 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:11:30,724 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-01-23 21:11:32,069 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-01-23 21:11:37,981 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:11:38,207 django.server "GET /store/files/ HTTP/1.1" 200 1874
+INFO 2026-01-23 21:11:41,665 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-01-23 21:11:53,653 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:11:53,852 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-01-23 21:13:19,427 django.server "POST /accounts/logout/ HTTP/1.1" 302 0
+INFO 2026-01-23 21:13:19,432 django.server "GET / HTTP/1.1" 200 425
+INFO 2026-02-08 16:03:20,513 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-02-08 16:03:25,072 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-02-08 16:03:25,208 django.request Not Found: /favicon.ico
+WARNING 2026-02-08 16:03:25,209 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-02-08 16:03:28,217 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-02-08 16:03:30,863 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-02-08 16:03:31,045 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-02-08 16:03:36,564 django.server "GET /store/upload/ HTTP/1.1" 200 2395
+INFO 2026-02-08 16:03:39,374 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-02-08 16:03:43,744 django.server "GET /store/files/1/ HTTP/1.1" 200 1121
+INFO 2026-02-08 16:03:54,727 django.server "GET /store/files/ HTTP/1.1" 200 1170
+INFO 2026-02-08 16:03:58,310 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-02-08 16:04:04,179 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-02-08 16:04:04,281 django.server "GET /store/files/ HTTP/1.1" 200 1764
+INFO 2026-02-08 16:04:08,025 django.server "GET /store/cart/ HTTP/1.1" 200 925
+INFO 2026-02-08 16:04:22,775 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-02-22 15:34:41,118 django.utils.autoreload Watching for file changes with StatReloader
+INFO 2026-02-22 15:34:46,298 django.server "GET / HTTP/1.1" 200 425
+WARNING 2026-02-22 15:34:46,482 django.request Not Found: /favicon.ico
+WARNING 2026-02-22 15:34:46,484 django.server "GET /favicon.ico HTTP/1.1" 404 2671
+INFO 2026-02-22 15:34:51,259 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-02-22 15:34:53,576 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-02-22 15:34:53,725 django.server "GET /store/files/ HTTP/1.1" 200 1764
+INFO 2026-02-22 15:35:08,136 django.server "GET /accounts/login/ HTTP/1.1" 200 768
+INFO 2026-02-22 15:35:12,685 django.server "POST /accounts/login/ HTTP/1.1" 302 0
+INFO 2026-02-22 15:35:12,736 django.server "GET /store/files/ HTTP/1.1" 200 1170

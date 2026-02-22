@@ -1,0 +1,13 @@
+<h1>فروشگاه دیجیتال</h1>
+
+<h2>آخرین فایل‌ها</h2>
+
+{% for file in files %}
+    <div style="margin-bottom: 20px; border:1px solid #ccc; padding:10px;">
+        <h3><a href="{% url 'store:file_detail' file.id %}">{{ file.title }}</a></h3>
+        <p>قیمت: {{ file.price }} تومان</p>
+        <p>{{ file.description|truncatewords:20 }}</p>
+    </div>
+{% empty %}
+    <p>فعلاً هیچ فایلی وجود ندارد.</p>
+{% endfor %}

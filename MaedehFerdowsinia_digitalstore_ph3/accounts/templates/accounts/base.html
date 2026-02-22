@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Accounts | Digital Store{% endblock %}</title>
+</head>
+<body>
+
+<h1>Digital Store</h1>
+<hr>
+
+{% if messages %}
+    <ul>
+        {% for message in messages %}
+            <li>{{ message }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
+
+{% block content %}
+{% endblock %}
+
+</body>
+</html>

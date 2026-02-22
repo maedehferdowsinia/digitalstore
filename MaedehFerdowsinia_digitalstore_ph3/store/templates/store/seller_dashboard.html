@@ -1,0 +1,52 @@
+{% extends "store/base.html" %}
+
+{% block title %}
+Seller Dashboard | Digital Store
+{% endblock %}
+
+{% block content %}
+
+<style>
+    .container {
+        max-width: 900px;
+        margin: auto;
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+    }
+    .file-box {
+        border: 1px solid #ddd;
+        padding: 15px;
+        margin-bottom: 15px;
+        border-radius: 8px;
+        background: #fafafa;
+    }
+</style>
+
+<div class="container">
+    <h2>📦 Seller Dashboard</h2>
+
+    <p><strong>Total Income:</strong> {{ total_income }} تومان</p>
+
+    <hr>
+
+    <h3>Your Files</h3>
+
+    {% if files %}
+        {% for file in files %}
+            <div class="file-box">
+                <h4>{{ file.title }}</h4>
+                <p>Price: {{ file.price }} تومان</p>
+                <p>Sold: {{ file.sold_count }}</p>
+
+                <a href="{% url 'store:file_detail' file.id %}">
+                    View File
+                </a>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>You have not uploaded any files yet.</p>
+    {% endif %}
+</div>
+
+{% endblock %}

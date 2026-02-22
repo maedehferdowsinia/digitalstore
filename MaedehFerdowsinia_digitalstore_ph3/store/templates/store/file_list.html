@@ -1,0 +1,38 @@
+{% extends 'store/base.html' %}
+
+{% block title %}File List{% endblock %}
+
+{% block content %}
+<h2>Available Files</h2>
+
+{% if user.is_seller %}
+    <a href="{% url 'store:upload_file' %}">Upload File</a>
+{% endif %}
+
+<ul>
+{% for file in files %}
+    <li>
+        {{ file.title }} - {{ file.price }}$
+        <a href="{% url 'store:file_detail' file.id %}">Details</a>
+    </li>
+{% endfor %}
+</ul>
+
+{% if not user.is_seller %}
+<hr>
+<h2>Purchased Files</h2>
+
+{% if purchased_files %}
+    <ul>
+    {% for file in purchased_files %}
+        <li>
+            {{ file.title }}
+            <a href="{% url 'store:download_file' file.id %}">Download</a>
+        </li>
+    {% endfor %}
+    </ul>
+{% else %}
+    <p>You have not purchased any files yet.</p>
+{% endif %}
+{% endif %}
+{% endblock %}

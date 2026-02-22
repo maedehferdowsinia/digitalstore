@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Digital Store{% endblock %}</title>
+</head>
+<body>
+
+<header>
+    <h1>Digital Store</h1>
+
+    {% if user.is_authenticated %}
+        <p>سلام {{ user.username }}</p>
+
+        <!-- لینک مشترک -->
+        <a href="{% url 'store:file_list' %}">فایل‌ها</a> |
+
+        <!-- فقط خریدار -->
+        {% if not user.is_seller %}
+            <a href="{% url 'store:cart' %}">سبد خرید</a> |
+        {% endif %}
+
+        <!-- فقط فروشنده -->
+        {% if user.is_seller %}
+            <a href="{% url 'store:upload_file' %}">Upload File</a> |
+        {% endif %}
+
+        <!-- خروج امن (POST) -->
+        <form method="post" action="{% url 'accounts:logout' %}" style="display:inline;">
+            {% csrf_token %}
+            <button type="submit">خروج</button>
+        </form>
+
+    {% else %}
+        <a href="{% url 'accounts:logout' %}">ورود</a>
+    {% endif %}
+</header>
+
+<hr>
+
+{% block content %}
+{% endblock %}
+
+</body>
+</html>

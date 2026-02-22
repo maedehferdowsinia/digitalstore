@@ -1,0 +1,56 @@
+{% extends "store/base.html" %}
+
+{% block title %}
+{{ file.title }} | Digital Store
+{% endblock %}
+
+{% block content %}
+
+<h2>{{ file.title }}</h2>
+
+<p><strong>توضیح:</strong> {{ file.description }}</p>
+<p><strong>نوع فایل:</strong> {{ file.get_file_type_display }}</p>
+<p><strong>قیمت:</strong> {{ file.price }} تومان</p>
+
+<hr>
+
+{% if file.file_type == 'article' and file.article %}
+    <h3>مشخصات مقاله</h3>
+    <p>کلمات کلیدی: {{ file.article.keywords }}</p>
+    <p>تعداد صفحات: {{ file.article.pages }}</p>
+
+{% elif file.file_type == 'book' and file.book %}
+    <h3>مشخصات کتاب</h3>
+    <p>نویسنده: {{ file.book.author }}</p>
+    <p>تعداد صفحات: {{ file.book.pages }}</p>
+
+{% elif file.file_type == 'music' and file.music %}
+    <h3>مشخصات موسیقی</h3>
+    <p>مدت زمان: {{ file.music.duration }}</p>
+    <p>فرمت: {{ file.music.format }}</p>
+
+{% elif file.file_type == 'image' and file.image %}
+    <h3>مشخصات تصویر</h3>
+    <p>ابعاد: {{ file.image.width }} × {{ file.image.height }}</p>
+    <p>فرمت: {{ file.image.format }}</p>
+{% endif %}
+
+<hr>
+
+{% if user.is_authenticated %}
+    {% if user == file.seller %}
+        <p>👤 این فایل متعلق به شماست</p>
+
+    {% elif already_purchased %}
+        <a href="{% url 'store:download_file' file.id %}">
+            <button>⬇ دانلود فایل</button>
+        </a>
+
+    {% else %}
+        <a href="{% url 'store:add_to_cart' file.id %}">
+            <button>➕ افزودن به سبد خرید</button>
+        </a>
+    {% endif %}
+{% endif %}
+
+{% endblock %}
